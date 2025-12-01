@@ -1,6 +1,6 @@
 """
 AI Study Plan Generator
-Author: <your name>
+Author: toma okumagba
 
 This script creates a simple personalized study plan based on:
 - number of days
